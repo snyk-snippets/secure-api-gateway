@@ -1,0 +1,24 @@
+{
+  "name": "node-api-gw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.6.0",
+    "express-session": "^1.17.3",
+    "express-winston": "^4.2.0",
+    "helmet": "^6.0.0",
+    "http-proxy-middleware": "^2.0.6",
+    "response-time": "^2.3.2",
+    "winston": "^3.8.2"
+  }
+}
